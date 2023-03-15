@@ -1,0 +1,17 @@
+{
+  "parking": [
+    {
+      "type":"CAR",
+      "noOfSpots":20,
+      "scheme": "ADDUP",
+      "prices":[
+        {
+          "startHour":0,
+          "endHour":2,
+          "fees":10,
+        }
+      ]
+    }
+  ]
+
+}
